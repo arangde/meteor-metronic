@@ -1,0 +1,5 @@
+.idea/
+.meteor/
+.project
+node_modules/
+templates/

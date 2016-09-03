@@ -1,0 +1,11 @@
+{
+  "public" : {
+    "perPage": 20
+  },
+  "baseUrl" : "http://localhost:5000/",
+  "contact": {
+    "email": {
+      "transport": "smtps://jaros.anger@gmail.com:[pass]@smtp.gmail.com"
+    }
+  }
+}
